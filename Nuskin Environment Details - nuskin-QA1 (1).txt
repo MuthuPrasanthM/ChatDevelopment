@@ -1,0 +1,67 @@
+Nuskin Environment
+=====================
+B2B Store:
+Admin url - TBD
+
+Admin
+=====================
+https://adminnxgen-qa1.skavacommerce.com/admin/foundation/businesses
+superadmin@skava.com/Skava@123
+
+Storefront
+=====================
+https://nuglobalbase-qa1.skavacommerce.com/
+TBD
+
+RabbitMQ UI	http://10.136.24.217:15672/#/    Username/Password: rabbitmqadmin /campaignpwd
+SOLR	http://10.136.24.217:8983/solr/#/
+ZkUI	http://10.136.24.217:8000/
+Pentaho	http://10.136.24.217:8081/          Username/Password: cluster / cluster
+
+
+Swagger Url
+=====================
+accountadmin	https://adminnxgen-qa1.skavacommerce.com/admin/accounts/ping
+accountsservice	https://apinxgen-qa1.skavacommerce.com/accountservices/ping
+adminorchestration	https://adminnxgen-qa1.skavacommerce.com/admin/services/ping
+authorizationadmin	https://adminnxgen-qa1.skavacommerce.com/admin/auth/ping
+catalogadmin	https://adminnxgen-qa1.skavacommerce.com/admin/catalogs/ping
+catalogservices	https://apinxgen-qa1.skavacommerce.com/catalogservices/ping
+commonadmin	https://adminnxgen-qa1.skavacommerce.com/admin/foundation/ping
+customeradmin	https://adminnxgen-qa1.skavacommerce.com/admin/customers/ping
+ecommaddress	https://apinxgen-qa1.skavacommerce.com/addressservices/ping
+ecommauth	https://apinxgen-qa1.skavacommerce.com/authservices/ping
+ecommcart	https://apinxgen-qa1.skavacommerce.com/cartservices/ping
+ecomminventory	https://apinxgen-qa1.skavacommerce.com/inventoryservices/ping
+ecommlist	https://apinxgen-qa1.skavacommerce.com/listservices/ping
+ecommnotification	https://apinxgen-qa1.skavacommerce.com/notificationservices/ping
+ecommoms	https://apinxgen-qa1.skavacommerce.com/omsservices/ping
+ecommorchestration	https://nuglobalbase-qa1.skavacommerce.com/orchestrationservices/swagger-ui.html
+ecommpayment	https://apinxgen-qa1.skavacommerce.com/paymentservices/ping
+ecommratingsandreviews	https://apinxgen-qa1.skavacommerce.com/ratingsreviewsservices/swagger-ui.html
+ecommreporting	https://apinxgen-qa1.skavacommerce.com/reportservices/ping
+ecommshipping	https://apinxgen-qa1.skavacommerce.com/shippingservices/ping
+ecommsubscription	https://apinxgen-qa1.skavacommerce.com/subscriptionservices/ping
+ecommtax	https://apinxgen-qa1.skavacommerce.com/taxservices/ping
+ecommuser	https://apinxgen-qa1.skavacommerce.com/userservices/ping
+feedadmin	https://adminnxgen-qa1.skavacommerce.com/admin/feed/ping
+feedservices	https://apinxgen-qa1.skavacommerce.com/feedservices/swagger-ui.html
+foundationservices	https://apinxgen-qa1.skavacommerce.com/foundationservices/ping
+locationservices	https://apinxgen-qa1.skavacommerce.com/locationservices/ping
+loyaltyadmin	https://adminnxgen-qa1.skavacommerce.com/admin/loyalty/ping
+loyaltyservices	https://apinxgen-qa1.skavacommerce.com/loyaltyservices/ping
+merchandiseadmin	https://adminnxgen-qa1.skavacommerce.com/admin/merchandising/ping
+merchandiseservices	https://apinxgen-qa1.skavacommerce.com/merchandiseservices/ping
+notificationadmin	https://adminnxgen-qa1.skavacommerce.com/admin/notifications/ping
+orderadmin	https://adminnxgen-qa1.skavacommerce.com/admin/orders/ping
+priceservices	https://apinxgen-qa1.skavacommerce.com/priceservices/ping
+pricingadmin	https://adminnxgen-qa1.skavacommerce.com/admin/pricing/ping
+promotionadmin	https://adminnxgen-qa1.skavacommerce.com/admin/promotions/ping
+promotionservices	https://apinxgen-qa1.skavacommerce.com/promotionservices/ping
+ratingsandreviewsadmin	https://adminnxgen-qa1.skavacommerce.com/admin/ratingsreviews/ping
+react	https://nuglobalbase-qa1.skavacommerce.com/
+searchservices	https://apinxgen-qa1.skavacommerce.com/searchservices/ping
+studio	https://adminnxgen-qa1.skavacommerce.com/mcadmin/ping
+studioservices	https://apinxgen-qa1.skavacommerce.com/skavastream/ping
+
+
